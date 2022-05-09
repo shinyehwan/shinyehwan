@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🌱 I’m currently learning java SpringBoot
 - 📫 How to reach me: jghisjl007@naver.com
+- 🔭 I’m currently working on BasicSpringProject
 <!--
 **shinyehwan/shinyehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
