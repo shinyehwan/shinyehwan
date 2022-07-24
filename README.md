@@ -2,6 +2,9 @@
 - 🌱 I’m currently learning java SpringBoot
 - 📫 How to reach me: jghisjl007@naver.com
 - 🔭 I’m currently working on DKU
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=shinyehwan)](https://github.com/shinyehwan/github-readme-stats)
+
 <!--
 **shinyehwan/shinyehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
