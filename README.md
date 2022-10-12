@@ -13,6 +13,12 @@
   <img alt="aws" src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonAWS&logoColor=white">
   <img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
 </p>
+<p>
+  <img alt="nginx" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+</p>
 
 <!--
 **shinyehwan/shinyehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
