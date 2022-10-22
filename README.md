@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning java SpringBoot
 - 📫 How to reach me: jghisjl007@naver.com
-- 🔭 I’m currently working on DKU!
 
 ### Skills & Learning
 <p>
