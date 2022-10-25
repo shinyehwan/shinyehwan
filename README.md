@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning java, SpringBoot 
 - 📫 How to reach me: jghisjl007@naver.com
 
-## Backend
+## Backend Experience
 - Spring, Spring Boot, Spring MVC, Node.js
 - AWS EC2, Nginx, Apache, PHP
 - MySQL, AWS-RDS, H2
