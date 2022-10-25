@@ -1,17 +1,15 @@
 ## Hello World!!!👋
-- 🌱 I’m currently learning java SpringBoot
+꾸준하고, 매일매일 습관처럼, 그냥 하는(JUST DO IT✔️)
+집중하고, 몰입하며, 포기하지 않는, 지속해서 성장하는 개발자를 지향합니다.
+
+## Learning & Skills
+- 🌱 I’m currently learning java, SpringBoot, 
 - 📫 How to reach me: jghisjl007@naver.com
 
-## Skills & Learning
-<p>
-  <img alt="JAVA" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-  <img alt="SpringBoot" src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img alt="linux" src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img alt="aws" src="https://img.shields.io/badge/aws-FF9900?style=for-the-badge&logo=amazonAWS&logoColor=white">
-  <img alt="nginx" src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
-</p>
+## 
+
+
+
 
 <!--
 **shinyehwan/shinyehwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
