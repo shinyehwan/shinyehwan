@@ -10,7 +10,7 @@
 - Spring, Spring Boot, Spring MVC, Node.js
 - AWS EC2, Nginx, Apache, PHP, Linux
 - MySQL, AWS-RDS, H2
-- Python, Django
+- Python
 
 
 
