@@ -1,6 +1,6 @@
 ## Hello World!!!👋
 꾸준하고, 매일매일 습관처럼, 그냥 하는(JUST DO IT✔️),
-집중하고, 몰입하며, 포기하지 않는, 지속해서 성장하는 개발자를 지향합니다.
+집중하고, 몰입하며, 포기하지 않는, 지속해서 성장하는 DBA를 지향합니다.
 
 ## Learning & Skills
 - 🌱 I’m currently learning DBMS
@@ -9,7 +9,7 @@
 ## Backend Experience
 - Spring, Spring Boot, Spring MVC, Node.js
 - AWS EC2, Nginx, Apache, PHP, Linux
-- MySQL, AWS-RDS, H2
+- Tibero, MySQL, AWS-RDS, H2
 - Python
 
 
