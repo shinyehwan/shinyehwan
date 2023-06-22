@@ -9,7 +9,7 @@
 ## Backend Experience
 - Spring, Spring Boot, Spring MVC, Node.js
 - AWS EC2, Nginx, Apache, PHP, Linux
-- Tibero, MySQL, AWS-RDS, H2
+- Oracle, Tibero, MySQL, AWS-RDS, H2
 - Python
 
 
