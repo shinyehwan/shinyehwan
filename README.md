@@ -3,7 +3,7 @@
 집중하고, 몰입하며, 포기하지 않는, 지속해서 성장하는 DBA를 지향합니다.
 
 ## Learning & Skills
-- 🌱 I’m currently learning DBMS
+- 🌱 I’m currently learning Oracle, TiberoDBMS
 - 📫 How to reach me: jghisjl007@naver.com
 
 ## Backend Experience
